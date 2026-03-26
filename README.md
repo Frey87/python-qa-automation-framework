@@ -13,18 +13,6 @@ It is focused on building and organizing a small automation framework using `pyt
 - use pytest configuration and fixtures
 - build a foundation for UI and API test automation
 
-## Project Structure
-
-```text
-QA_Auto_GlobalLogic/
-├── Frameworks/
-│   ├── config/
-│   ├── modules/
-│   ├── tests/
-│   ├── conftest.py
-│   └── pytest.ini
-└── notebooks/
-
 ## Technologies
 
 - Python
@@ -38,7 +26,18 @@ QA_Auto_GlobalLogic/
 - configuration management
 - separating framework code from test cases
 
+## Project Structure
 
-Author
+```text
+QA_Auto_GlobalLogic/
+├── Frameworks/
+│   ├── config/
+│   ├── modules/
+│   ├── tests/
+│   ├── conftest.py
+│   └── pytest.ini
+└── notebooks/
+
+
 Valentyn Verovkin
 Kyiv, Ukraine
